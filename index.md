@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
-https://github.com/WWFF-KFF/FusionTable-Map-Template/tree/Alabama/index.html
-
+<iframe 
+  style="border-style: none;" 
+  src="https://github.com/WWFF-KFF/FusionTable-Map-Template/tree/master/index_iframe.html" 
+  width="600" 
+  height="950" >
+</iframe>
 
 You can use the [editor on GitHub](https://github.com/WWFF-KFF/Maps/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
